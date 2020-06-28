@@ -5,7 +5,7 @@
 - Clone this repository:
 
 ```
-git clone https://github.com/
+git clone https://github.com/OmarDakkak/react-landing-page.git
 ```
 
 - How to run locally?
